@@ -31,14 +31,11 @@ Orblyn solves this by creating a **structured, calm, distraction-free flow**.
 * Reduced decision fatigue
 * One clear action per screen
 * Intentional navigation
-* Micro-feedback for engagement
 
 ## Built With
 
 * Structured Prompt Engineering
 * UX-first Architecture
-* Modular Learning Design
-* Vibe Coding Approach
 
 ## What I Learned
 
@@ -49,9 +46,9 @@ This project gave me:
 * Designing for neurodivergent users
 * Building product logic before visuals
 
----
 
 ## Author 
 
 Built by **Aashitha <3**
+
 UI/UX Designer | Learning Experience Explorer
