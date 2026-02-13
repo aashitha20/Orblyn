@@ -8,8 +8,6 @@ Orblyn is a focused learning interface designed to reduce anxiety, increase clar
 
 Orblyn solves this by creating a **structured, calm, distraction-free flow**.
 
----
-
 ## Core Features
 
 * **AI-Resistance System**
@@ -27,8 +25,6 @@ Orblyn solves this by creating a **structured, calm, distraction-free flow**.
   Clear “where am I?” indicators
   Completion reinforcement
 
----
-
 ## Design Philosophy
 
 * Calm visual hierarchy
@@ -37,16 +33,12 @@ Orblyn solves this by creating a **structured, calm, distraction-free flow**.
 * Intentional navigation
 * Micro-feedback for engagement
 
----
-
 ## Built With
 
 * Structured Prompt Engineering
 * UX-first Architecture
 * Modular Learning Design
 * Vibe Coding Approach
-
----
 
 ## What I Learned
 
